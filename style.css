@@ -650,7 +650,7 @@ footer {
         animation: floatUp 2000ms ease-in-out infinite alternate;
         width: auto;
         text-align: center;
-        background: url(../Img/anim5.jpg);
+        background: url(anim5.jpg);
         background-clip: text;
        -webkit-background-clip: text;
        color: transparent;
