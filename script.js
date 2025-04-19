@@ -3,7 +3,7 @@
       e.preventDefault();
 
       var name = document.getElementById("name").value;
-     var name = document.getElementById("number").value;
+     var name = document.getElementById("whatsappNumber").value;
       var email = document.getElementById("email").value;
       var message = document.getElementById("message").value;
 
