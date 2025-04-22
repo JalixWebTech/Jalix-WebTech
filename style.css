@@ -1015,7 +1015,7 @@ footer {
       /*fieldset*/
 
       .fieldset1{
-        border: #bb00bb solid 2px; 
+        border: #ffffff solid 2px; 
         margin-top: 5px; 
         margin-left: 30px; 
         height: 460px; 
@@ -1023,7 +1023,7 @@ footer {
         border-radius: 10px;
       }
       .fieldset2{
-        border: #bb00bb solid 2px; 
+        border: #ffffff solid 2px; 
         margin-top: 5px; 
         margin-left: 35px; 
         height: 460px; 
@@ -1035,7 +1035,7 @@ footer {
 
       .legend1{
         font-size: 35px; 
-        color: #ff00dd; 
+        color: #ffffff; 
         text-align: center;
       }
 
@@ -1043,13 +1043,13 @@ footer {
       .ul1{
         color: #ffffff; 
         margin-top: 60px;  
-        border-top: #ff00dd solid 1px; 
+        border-top: #ffffff solid 1px; 
         font-size: 20px;  
       }
       .ul2{
         color: #ffffff; 
         margin-top: 32px;  
-        border-top: #ff00dd solid 1px; 
+        border-top: #ffffff solid 1px; 
         font-size: 20px;
       }
 
